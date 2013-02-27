@@ -1,0 +1,14 @@
+'hei $navn, går d bra?' -> hei $navn, går d bra?
+
+"hei $navn, går d bra?"   -> hei pia, går d bra?
+
+'hei'.$navn.
+
+
+'ca\'ching'
+
+
+
+1.: Sette opp inndatafelt
+2.: Lese data i PHP
+3.: Printe ut data på ny side
